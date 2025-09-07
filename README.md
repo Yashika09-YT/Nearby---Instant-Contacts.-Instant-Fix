@@ -1,4 +1,4 @@
-# nNearbyServices 🚀 – Instant Contact. Instant Fix.
+# nearbyServices 🚀 – Instant Contact. Instant Fix.
 
 ## Project Overview
 
@@ -10,6 +10,56 @@ Key features include:
 - Contact providers instantly via app or phone 📲
 - List your services for customers to find you 🛠️
 - Categorized services for easy browsing 🗂️
+
+---
+
+## Screenshots & Features
+
+### Add Categories 🗂️
+
+Easily add new service categories for users to explore:  
+![Add Categories](ReadmeImages/AddCategories.png)
+
+### View All Categories 🏷️
+
+Check all service categories at a glance:  
+![All Categories](ReadmeImages/AllCategories.png)
+
+### Browse All Services 🛠️
+
+Explore all available services instantly:  
+![All Services](ReadmeImages/AllServices.png)
+
+### Categories Chart 📊
+
+Interactive visualization of service categories:  
+![Categories Chart](ReadmeImages/CategorieisChart.png)
+
+### Database Overview 🗄️
+
+Efficient storage of all services and users:  
+![Database](ReadmeImages/Database.png)
+
+### Filter & Search 🔍
+
+Quickly find the service you need with filters:  
+![Filter Searching](ReadmeImages/FilterSearching.png)
+
+### Login & Register 🔑
+
+Secure authentication for users and providers:  
+![Login](ReadmeImages/login.png)  
+![Register](ReadmeImages/Register.png)
+
+### Profile & Dashboard 👤
+
+Manage your account and track services:  
+![Profile](ReadmeImages/profile.png)
+
+### Service Analytics 📈
+
+Visual charts to analyze services performance:  
+![Service Chart](ReadmeImages/ServiceChart.png)
 
 ---
 
@@ -57,11 +107,23 @@ Key features include:
 
 Clone the repo and run:
 
+````bash
+npm install
+# or
+yarn install
+
+
+## Getting Started
+
+### Installation
+
+Clone the repo and run:
+
 ```bash
 npm install
 # or
 yarn install
-```
+````
 
 ### Start Frontend
 
@@ -106,8 +168,4 @@ yarn run start:dev
 
 The server runs on [http://localhost:5000](http://localhost:5000).
 
----
-
-This version aligns perfectly with your **nearbyServices** project and is ready for GitHub.
-
-I can also draft a **short, punchy one-paragraph description with emojis** for the top of the README that grabs attention immediately. Do you want me to do that?
+Built with ❤️ by Yashika Tanwar | 2025
